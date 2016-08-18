@@ -6,9 +6,6 @@ import creational.builder.custombuilder.Transmission;
 import creational.builder.simplebuilder.Car;
 import creational.builder.simplebuilder.CarBuilder;
 
-/**
- * Created by roman on 8/18/16.
- */
 public class Program {
 
     public static void main(String[] args) {

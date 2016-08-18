@@ -2,9 +2,6 @@ package creational.builder.simplebuilder;
 
 import creational.builder.custombuilder.Transmission;
 
-/**
- * Created by roman on 8/18/16.
- */
 public class CarBuilder {
 
     private String mark;

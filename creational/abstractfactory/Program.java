@@ -3,9 +3,6 @@ package creational.abstractfactory;
 import creational.abstractfactory.banking.BankingTeamFactory;
 import creational.abstractfactory.website.WebSiteTeamFactory;
 
-/**
- * Created by roman on 8/17/16.
- */
 public class Program {
 
     public static void main(String[] args) {

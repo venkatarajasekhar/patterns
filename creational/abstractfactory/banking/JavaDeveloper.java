@@ -2,9 +2,6 @@ package creational.abstractfactory.banking;
 
 import creational.abstractfactory.Developer;
 
-/**
- * Created by roman on 8/17/16.
- */
 public class JavaDeveloper implements Developer {
 
     @Override
